@@ -148,3 +148,7 @@
 .button__img {
     border: none;
 }
+
+img {
+    border-radius: 5px;
+}
